@@ -19,5 +19,5 @@ components.html(
     src="https://app.powerbi.com/view?r=eyJrIjoiZjdlZjg3NDUtNjcwNC00MWY3LWE5OWYtZTIxZDQ4NTY0NDliIiwidCI6ImRjNTdkYjliLWNjNTQtNDI5Yi1iOWU4LTBhZmZhMzZmMDY2NiJ9"
     frameborder="0" allowFullScreen="true"></iframe>
     """,
-    height=800,
+    height=800
 )
