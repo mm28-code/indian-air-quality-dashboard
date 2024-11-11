@@ -15,9 +15,9 @@ st.title("Indian Air Quality Index Dashboard")
 # Embed the Power BI dashboard
 components.html(
     """
-    <iframe title="Indian Air Quality Index new final" width="600" height="373.5"
+     <iframe title="Indian Air Quality Index new final" width="90%" height="80%"
     src="https://app.powerbi.com/view?r=eyJrIjoiZjdlZjg3NDUtNjcwNC00MWY3LWE5OWYtZTIxZDQ4NTY0NDliIiwidCI6ImRjNTdkYjliLWNjNTQtNDI5Yi1iOWU4LTBhZmZhMzZmMDY2NiJ9"
     frameborder="0" allowFullScreen="true"></iframe>
     """,
-    height=400
+    height=800,
 )
